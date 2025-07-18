@@ -90,15 +90,6 @@ This project showcases how machine learning can assist in clinical decision-maki
 
 ---
 
-## 🚀 Future Improvements
-
-- Apply feature scaling (StandardScaler) to enhance SVM margin performance
-- Use ensemble models like Random Forest or XGBoost for comparison
-- Handle class imbalance using SMOTE or similar techniques
-- Deploy the model using Streamlit or Flask
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 🐍
@@ -108,14 +99,6 @@ This project showcases how machine learning can assist in clinical decision-maki
 - Jupyter Notebook / Google Colab
 
 ---
-
-## 📂 Project Structure
-
-📦 svm-drug-classification
-├── 📜 Enhanced_svm_drug_project__by_Ayush.ipynb
-├── 📜 README.md
-├── 📊 visuals/
-└── 📁 data/
 
 #👋 Connect
 
